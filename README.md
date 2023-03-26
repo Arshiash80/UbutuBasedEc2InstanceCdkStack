@@ -1,5 +1,8 @@
 # Welcome to your CDK TypeScript project
 
+## Reference
+-  [Provision an Ubuntu-based EC2 instance with CDK](https://loige.co/provision-ubuntu-ec2-with-cdk/)
+
 This is a blank project for CDK development with TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
